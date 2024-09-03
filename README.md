@@ -26,7 +26,7 @@ The project uses the Strategy design pattern to define and switch between differ
 - **.NET Framework**: .NET 8.0
 
 ## 5. References
- ![Readme File]{https://github.com/chittur/observer-pattern-demo}
- ![Bridge Design Pattern]{https://www.geeksforgeeks.org/bridge-design-pattern/}
- ![Code Idea]{https://refactoring.guru/design-patterns/bridge}
- ![UML diagram]{https://www.plantuml.com/plantuml/uml/fLDVQy8m47_FfpXyKZRz0394tM3iGHZ2sFEjEJMOf9ASCfZxxajBMPjRsN3sfUJw-_ExotKU6GCVdLLis18iWz5RWWUAPklX6PafUDYK0HxH4TplC62HQb4fuzDxWmN1qweyqP9sU389-A4WFJVWKd4uciAfD5fzPlW5CnRx7moiorrEOJ56U4Mx1-CEbXnvZh_x2UxwwFzBNP4bggDcxfUcNwFVahv61zyYLsE7Mh2zX8Po22LJEclHdUiS151wOtPKJP9les4cV2lfexun_dMb8LJ6zCxajUpfGh55A7PqjLPB6uzdOfHJ6Bn4YWC14dDeOKrx2NIUjNbK4rHKSwkxysHIRtnVFMspagRrXywkzWAoBLHgJbvNFxtw0W00}
+- ![Readme File]{https://github.com/chittur/observer-pattern-demo}
+- ![Bridge Design Pattern]{https://www.geeksforgeeks.org/bridge-design-pattern/}
+- ![Code Idea]{https://refactoring.guru/design-patterns/bridge}
+- ![UML diagram]{https://www.plantuml.com/plantuml/uml/fLDVQy8m47_FfpXyKZRz0394tM3iGHZ2sFEjEJMOf9ASCfZxxajBMPjRsN3sfUJw-_ExotKU6GCVdLLis18iWz5RWWUAPklX6PafUDYK0HxH4TplC62HQb4fuzDxWmN1qweyqP9sU389-A4WFJVWKd4uciAfD5fzPlW5CnRx7moiorrEOJ56U4Mx1-CEbXnvZh_x2UxwwFzBNP4bggDcxfUcNwFVahv61zyYLsE7Mh2zX8Po22LJEclHdUiS151wOtPKJP9les4cV2lfexun_dMb8LJ6zCxajUpfGh55A7PqjLPB6uzdOfHJ6Bn4YWC14dDeOKrx2NIUjNbK4rHKSwkxysHIRtnVFMspagRrXywkzWAoBLHgJbvNFxtw0W00}
